@@ -61,7 +61,7 @@
 - 异常状态的影响
 - 天气/环境的影响
 
-<img src="pic\对战逻辑0.3.png" alt="对战逻辑0.3" style="zoom:0.3%;" />
+<img src="pic\对战逻辑1.png" alt="对战逻辑0.3" style="zoom:0.3%;" />
 
 
 
