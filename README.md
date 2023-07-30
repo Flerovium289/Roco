@@ -52,7 +52,7 @@
 
   
 
-<img src="pic\对战逻辑0.png" alt="对战逻辑0" style="zoom:0.3%;" />
+<img src="pic\对战逻辑0.png" alt="对战逻辑0" width="375" />
 
 
 
@@ -61,7 +61,7 @@
 - 异常状态的影响
 - 天气/环境的影响
 
-<img src="pic\对战逻辑1.png" alt="对战逻辑0.3" style="zoom:0.3%;" />
+<img src="pic\对战逻辑1.png" alt="对战逻辑0.3" width="375" />
 
 
 
@@ -69,7 +69,7 @@
 
 - 假设Player 0.3 先手
 
-<img src="pic\对战逻辑2.png" alt="对战逻辑2" style="zoom:0.3%;" />
+<img src="pic\对战逻辑2.png" alt="对战逻辑2" width="375" />
 
 
 
@@ -78,14 +78,14 @@
 - 裁判令消息队列队首元素出列
 - 对手、天气环境对队首元素进行调整
 
-<img src="pic\对战逻辑3.png" alt="对战逻辑3" style="zoom:0.3%;" />
+<img src="pic\对战逻辑3.png" alt="对战逻辑3" width="375" />
 
 #### Step 4 裁判令技能效果作用对象应用技能效果
 
 - 重复Step 3、 Step 4直至消息队列为空
 - 若执行过程中Player 2出战宠物阵亡，则结算完本技能效果，之后不再结算其他多段技能效果
 
-<img src="pic\对战逻辑4.png" alt="对战逻辑4" style="zoom:0.3%;" />
+<img src="pic\对战逻辑4.png" alt="对战逻辑4" width="375" />
 
 #### Step 0.3 先手玩家结算多段技能剩余段数
 
