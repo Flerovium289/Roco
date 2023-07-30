@@ -24,7 +24,7 @@
 
   层级关系如下图：
 
-<img src="pic\文件结构.png" alt="文件结构" style="zoom:0.3%;" />
+<img src="pic\文件结构.png" alt="文件结构" width="375" />
 
    
 
